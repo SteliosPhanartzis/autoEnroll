@@ -17,6 +17,5 @@ npm start
 ```
 ## Editing the code
 - There are comments throughout the code of what each portion does. Modifiable portions are specifically highlighted
--
 ## Known issues
 - After quitting the program, it will continue to reopen (it's timed to reopen every 30 seconds). Go to your task manager and end the remaining node process.
