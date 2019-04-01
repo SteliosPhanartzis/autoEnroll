@@ -6,7 +6,7 @@
 git clone https://github.com/SteliosPhanartzis/autoEnroll.git
 ```
 3. Download and install node LTS: (https://nodejs.org/en/)
-4. Install the required packes using
+4. Install the required packages using
 ```
 npm install
 ```
