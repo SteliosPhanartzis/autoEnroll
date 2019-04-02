@@ -44,9 +44,9 @@ var logger = require('morgan');
 //Current Link is Fall 2019
 var termLink = 'https://hrsa.cunyfirst.cuny.edu/psc/cnyhcprd/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES_2.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&Action=A&ACAD_CAREER=UGRD&INSTITUTION=QNS01&STRM=1199';
 //Enter First.Last## Here
-var userName = 'Stylianos.Phanartzis17';
+var userName = '';
 //Enter Password Here
-var pass = 'theFray09!';
+var pass = '';
 
 /*****************************************
 * ONLY MODIFY NIGHTMARE INSTANCE BELOW
