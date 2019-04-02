@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+	<h1>registerMe</h1>
+  	<p>
+  		Enter the class number you would like this application to track. As soon as a tracked class is available, the application will attempt to enroll you in the open class.
+  	</p>
+  	<label for="trackClass">Enter a class to track: </label>
+  	<form id="trackClass" name="trackClass" action="/tracked">
+  		<input type="text" name="classID">
+  		<input type="submit">
+  	</form>
+  	<p>
+  		<%- classList %>
+  	</p>
+  </body>
+</html>
