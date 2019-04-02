@@ -22,8 +22,8 @@ var logger = require('morgan');
 // var transporter = nodemailer.createTransport(transport);
 // function sendMail(input){
 // 	mailOptions = {
-// 	  from: 'haordoxingbuxing@gmail.com',
-// 	  to: 'yosonodio@gmail.com',
+// 	  from: '',
+// 	  to: '',
 // 	  subject: ' Class Registered!',
 // 	  text: `You have been enrolled for ${input}`
 // 	};
