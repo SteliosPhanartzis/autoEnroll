@@ -42,11 +42,11 @@ var logger = require('morgan');
 
 //Link to shopping cart for specified term
 //Current Link is Fall 2019
-var termLink = 'https://hrsa.cunyfirst.cuny.edu/psc/cnyhcprd/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES_2.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&Action=A&ACAD_CAREER=UGRD&EMPLID=23177617&INSTITUTION=QNS01&STRM=1199&TargetFrameName=None';
+var termLink = 'https://hrsa.cunyfirst.cuny.edu/psc/cnyhcprd/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES_2.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&Action=A&ACAD_CAREER=UGRD&INSTITUTION=QNS01&STRM=1199';
 //Enter First.Last## Here
-var userName = '';
+var userName = 'Stylianos.Phanartzis17';
 //Enter Password Here
-var pass = '';
+var pass = 'theFray09!';
 
 /*****************************************
 * ONLY MODIFY NIGHTMARE INSTANCE BELOW
