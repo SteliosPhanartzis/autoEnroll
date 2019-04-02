@@ -15,8 +15,8 @@ var logger = require('morgan');
 // var transport = {
 //   service: 'gmail',
 //   auth: {
-//     user: 'haordoxingbuxing@gmail.com',
-//     pass: 'fa6f48b9d5'
+//     user: 
+//     pass: 
 //   }
 // };
 // var transporter = nodemailer.createTransport(transport);
