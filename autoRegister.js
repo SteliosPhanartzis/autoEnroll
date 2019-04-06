@@ -42,7 +42,7 @@ var logger = require('morgan');
 
 //Link to shopping cart for specified term
 //Current Link is Fall 2019
-var termLink = 'https://hrsa.cunyfirst.cuny.edu/psc/cnyhcprd/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES_2.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&Action=A&ACAD_CAREER=UGRD&INSTITUTION=QNS01&STRM=1199';
+var termLink = 'https://hrsa.cunyfirst.cuny.edu/psc/cnyhcprd/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES_2.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&Action=A&ACAD_CAREER=UGRD&ENRL_REQUEST_ID=&INSTITUTION=QNS01&STRM=1199';
 //Enter First.Last## Here
 var userName = '';
 //Enter Password Here
